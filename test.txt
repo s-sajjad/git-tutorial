@@ -1,2 +1,4 @@
 Hello.
 I am using VS Code for learning Git.
+
+I have commited before
